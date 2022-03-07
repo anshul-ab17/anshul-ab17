@@ -1,0 +1,54 @@
+
+
+.circle {
+    width:300px;
+    height:300px;
+    background-color:brown ;
+    transition: background-color 3s , border-radius 2s;
+     
+}
+
+.circle:hover {
+    background-color: cyan;
+    border-radius: 50%;
+}
+
+
+
+
+section div {
+    width:50px;
+    height:50px;
+    margin:50px 0;
+    background-color:brown ;
+    transition: margin-left 3s;
+     
+}
+
+section:hover div {
+
+    margin-left:500px;
+    
+}
+
+
+div:nth-of-type(1){
+    transition-timing-function: ease-in;
+}
+div:nth-of-type(2){
+    transition-timing-function: ease-out;
+
+}
+div:nth-of-type(3){
+    transition-timing-function: cubic-bezier(0.11, 0, 0.5, 0);
+
+}
+div:nth-of-type(4){
+    transition-timing-function: ease-in-out;
+
+}
+div:nth-of-type(4){
+    transition-timing-function: ease;
+
+}
+

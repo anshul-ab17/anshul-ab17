@@ -1,0 +1,48 @@
+/*This is universal selector:(but it is comment out.)
+
+
+*{
+    color:yellowgreen;
+    background-color: orangered
+*/
+body{
+    background-color:f1adf5;
+}
+
+
+button{
+
+    font-size: 30px;
+    background-color: #aadefe;
+}
+
+/*This is list selector */
+h1,h2{ 
+    color: black;
+}
+
+
+/* id selector */
+#signup{
+
+    color:red;
+}
+
+
+/* class selector */
+span{
+    color:blueviolet
+}
+
+.tag{
+    background-color:#e63946;
+    color:#f1faee;
+    font-size: larger;
+}
+
+
+
+li a{
+
+    color:green
+}

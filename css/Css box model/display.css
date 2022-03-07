@@ -1,0 +1,13 @@
+h1{
+    border: 1px solid brown ;
+    background-color: palegoldenrod; 
+    
+}
+
+
+
+span{
+    background-color: greenyellow ;
+    border: 1px solid orange;
+    display: block;
+}
