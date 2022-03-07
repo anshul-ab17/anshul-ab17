@@ -1,5 +1,5 @@
 - 👋 Hey...I’m @anshul-ab17
-- 👀 I’m interested in ...python javascript 
+- 👀 I’m interested in ...full stack mern stack mean stack
 - 🌱 I’m currently learning ...java javascript 
 - 📫 How to reach me ...anshul.ab17x@gmail.com(gmail)  anshul_ab.17(insta)
 
