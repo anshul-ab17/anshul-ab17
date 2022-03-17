@@ -1,4 +1,4 @@
-#Linkedin -Python for non programmer:  
+# Python for Gound level:  
 
 
 #1.python basics:
@@ -314,16 +314,16 @@ else:
     print("it's ok")
       
       
-def city():
+def gret():
     print("hey")
     print("there")
     print("you")
       
       
-city()
-city()
-
-city()
-city()
-
+gret()
+gret()
+gret()
+gret()
+gret()
+gret()
 
