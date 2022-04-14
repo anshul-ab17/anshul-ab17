@@ -5,10 +5,11 @@
 
 
 #variables in python
+
 a =9
 print(a)
-ankit =6
-print(ankit)
+harry =6
+print(harry)
 
 #numbers:int and float
 2
